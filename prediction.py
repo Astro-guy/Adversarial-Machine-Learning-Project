@@ -32,4 +32,5 @@ import sys
 
 if __name__ == "__main__":
     image_path = sys.argv[1]
-    print(predict(image_path))
+    result = predict(image_path)
+    print("This is an image of", result)
