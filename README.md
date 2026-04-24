@@ -4,16 +4,16 @@ This is basic project on adversarial machine learning. A simple image classifica
 
 
 ## 🚀 Features
-Custom CNN model built with PyTorch
-Image classification (5 fruit classes)
-image user input
-Adversarial sample generation (CW attack)
+Custom CNN model built with PyTorch  
+Image classification (5 fruit classes)  
+image user input  
+Adversarial sample generation (CW attack)  
 
 
 ## 📊 Model Details
-Test Accuracy: ~0.71–0.74
-Dataset: fruit dataset (5 classes, ~2000 images each)
-Input size: 128×128 RGB images
+Test Accuracy: ~0.71–0.74  
+Dataset: fruit dataset (5 classes, ~2000 images each)  
+Input size: 128×128 RGB images  
 
 
 ## ⚙️ Installation
@@ -32,9 +32,9 @@ model_weights.pth
 
 
 ## ⚠️ Limitations
-Model training was highly dependent on the dataset and limited computatioal power
-some adversarial examples have slightly noticable changes
-Very simple model for educational purpose
+Model training was highly dependent on the dataset and limited computatioal power  
+some adversarial examples have slightly noticable changes       
+Very simple model for educational purpose  
 
 
 ## 📧 Contact
