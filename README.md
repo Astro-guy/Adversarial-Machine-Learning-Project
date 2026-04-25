@@ -35,9 +35,9 @@ model_weights.pth
 
 ## 🧠 Adversarial ML Perspective
 Adversarial Machine Learning focuses on exploiting weaknesses in models by introducing small perturbations to inputs.  
-  The CW attack uses optimization techniques to generate minimal but effective perturbations  
-  Generated adversarial samples can bypass model predictions  
-  Demonstrates how ML systems can be security-sensitive in deployment  
+- The CW attack uses optimization techniques to generate minimal but effective perturbations  
+- Generated adversarial samples can bypass model predictions  
+- Demonstrates how ML systems can be security-sensitive in deployment  
 
 
 ## ⚠️ Limitations
